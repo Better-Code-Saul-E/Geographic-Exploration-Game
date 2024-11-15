@@ -1,0 +1,14 @@
+C:\Users\saule\Downloads\MapDemo\MapDemo\bin\Debug\net8.0\GameMapExploration.exe
+C:\Users\saule\Downloads\MapDemo\MapDemo\bin\Debug\net8.0\GameMapExploration.deps.json
+C:\Users\saule\Downloads\MapDemo\MapDemo\bin\Debug\net8.0\GameMapExploration.runtimeconfig.json
+C:\Users\saule\Downloads\MapDemo\MapDemo\bin\Debug\net8.0\GameMapExploration.dll
+C:\Users\saule\Downloads\MapDemo\MapDemo\bin\Debug\net8.0\GameMapExploration.pdb
+C:\Users\saule\Downloads\MapDemo\MapDemo\obj\Debug\net8.0\GameMapExploration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saule\Downloads\MapDemo\MapDemo\obj\Debug\net8.0\GameMapExploration.AssemblyInfoInputs.cache
+C:\Users\saule\Downloads\MapDemo\MapDemo\obj\Debug\net8.0\GameMapExploration.AssemblyInfo.cs
+C:\Users\saule\Downloads\MapDemo\MapDemo\obj\Debug\net8.0\GameMapExploration.csproj.CoreCompileInputs.cache
+C:\Users\saule\Downloads\MapDemo\MapDemo\obj\Debug\net8.0\GameMapExploration.dll
+C:\Users\saule\Downloads\MapDemo\MapDemo\obj\Debug\net8.0\refint\GameMapExploration.dll
+C:\Users\saule\Downloads\MapDemo\MapDemo\obj\Debug\net8.0\GameMapExploration.pdb
+C:\Users\saule\Downloads\MapDemo\MapDemo\obj\Debug\net8.0\GameMapExploration.genruntimeconfig.cache
+C:\Users\saule\Downloads\MapDemo\MapDemo\obj\Debug\net8.0\ref\GameMapExploration.dll
