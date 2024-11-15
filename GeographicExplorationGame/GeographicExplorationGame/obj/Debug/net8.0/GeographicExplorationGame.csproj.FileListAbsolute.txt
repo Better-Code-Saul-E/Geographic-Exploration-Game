@@ -1,0 +1,14 @@
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\bin\Debug\net8.0\GeographicExplorationGame.exe
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\bin\Debug\net8.0\GeographicExplorationGame.deps.json
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\bin\Debug\net8.0\GeographicExplorationGame.runtimeconfig.json
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\bin\Debug\net8.0\GeographicExplorationGame.dll
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\bin\Debug\net8.0\GeographicExplorationGame.pdb
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\obj\Debug\net8.0\GeographicExplorationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\obj\Debug\net8.0\GeographicExplorationGame.AssemblyInfoInputs.cache
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\obj\Debug\net8.0\GeographicExplorationGame.AssemblyInfo.cs
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\obj\Debug\net8.0\GeographicExplorationGame.csproj.CoreCompileInputs.cache
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\obj\Debug\net8.0\GeographicExplorationGame.dll
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\obj\Debug\net8.0\refint\GeographicExplorationGame.dll
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\obj\Debug\net8.0\GeographicExplorationGame.pdb
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\obj\Debug\net8.0\GeographicExplorationGame.genruntimeconfig.cache
+C:\Users\saule\source\repos\GeographicExplorationGame\GeographicExplorationGame\obj\Debug\net8.0\ref\GeographicExplorationGame.dll

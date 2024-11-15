@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeographicExplorationGame", "GeographicExplorationGame\GeographicExplorationGame.csproj", "{C63208C0-D59E-4260-B3D7-0C9F038A8FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63208C0-D59E-4260-B3D7-0C9F038A8FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63208C0-D59E-4260-B3D7-0C9F038A8FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63208C0-D59E-4260-B3D7-0C9F038A8FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63208C0-D59E-4260-B3D7-0C9F038A8FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A42A65C-8D6A-4EE6-B772-4E7F160E7325}
+	EndGlobalSection
+EndGlobal
